@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my GitHub Profile! </br> I'm Moazzam Hossain, Fullstack developer from <img src="/assets/images/bangladesh.png" width="13"/> <b>Dhaka, Bangladesh</b></p>
+<p>Welcome to my GitHub Profile! </br> I'm Moazzam Hossain, Fullstack developer from <img src="bangladesh.png" width="13"/> <b>Dhaka, Bangladesh</b></p>
 
 <p>
     <a href="https://github.com/smmoazzamhossain" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -11,10 +11,10 @@
     <a href="https://www.fiverr.com/coderxi" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-%2335A462?&style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
 
-
-<h2>Things I code with</h2>
+<br>
+<h3>Tools & Technologies I Used!</h3>
 <p>
-
+    
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -67,7 +67,3 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smmoazzamhossain&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=smmoazzamhossain&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=smmoazzamhossain.smmoazzamhossain)
